@@ -30,11 +30,9 @@ git clone https://github.com/guillenieva/Blog.git
 |:---|:---:|
 | Django| 2.2|
 | django-suit| 0.2.28|
-| docutils | 0.16 |
-| pytz | 2020.11|
 | sqlparse | 0.4.1|
-| Pillow |
-| django-crispy-forms|
+| Pillow | 8.1.0|
+| pytz | 2021.1|
 
 
 * **Instalar requirements.txt** en la virtualenv:
