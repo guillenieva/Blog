@@ -18,7 +18,7 @@ Ejecutar los siguientes comandos en terminal
 ```
 git init
 
-git clone 
+git clone https://github.com/guillenieva/Blog.git
 ```
 
 </br>
